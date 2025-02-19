@@ -1,0 +1,23 @@
+body {
+	font-family: "Courier", sans-serif;
+	color: black;
+	background: url('https://wallpapers.com/images/featured/math-background-jbcyizvw0ckuvcro.jpg') no-repeat;
+}
+
+.container {
+	background-color: #FFFAFF;
+	border-radius: 10px;
+}
+
+.button {
+	display: flex;
+	justify-content: center;
+}
+
+img {
+	max-width: 400px;
+}
+
+form {
+	padding: 5px;
+}
